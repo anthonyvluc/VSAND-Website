@@ -38,6 +38,7 @@ VSAND Website
 
 * When you're completely done, remember to eject the mapped folder!
 
+* TODO for Anthony: Add git command line examples
 
 ## How to Verify the Changes Made it to the Official Site ##
 * Make sure you are using an incognito browser!!!
