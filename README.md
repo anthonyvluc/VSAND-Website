@@ -1,10 +1,10 @@
 VSAND Website
 
 ## Pages to Update ##
-* index.html -- header, service trip commissioner
-* brochure.html -- add image files and actual brochure file (for the freshies)
-* events.html -- add new images for our recent events!
+* index.html -- maybe change the photos on the carousel in img/carousel
+* about.html -- update statement and goals
 * contact.html -- add officer images and update text and links
+* apparel.html -- update apparel images
 * Note: All pages should have webmaster and copyright year footer updated.
 
 ## How To Edit ##
