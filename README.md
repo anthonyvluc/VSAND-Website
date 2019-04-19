@@ -34,7 +34,7 @@ VSAND Website
 * Connect
 * Login using the following credentials: Name=vsand Password=(Use the current VSA password)
 * Copy the changed files from your `local` to the `www` Finder window.
-* For Windows: TBD
+* For Windows: TBD still
 
 * When you're completely done, remember to eject the mapped folder!
 
