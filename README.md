@@ -34,11 +34,13 @@ VSAND Website
 * Connect
 * Login using the following credentials: Name=vsand Password=(Use the current VSA password)
 * Copy the changed files from your `local` to the `www` Finder window.
-* For Windows: TBD still
+* For Windows: Map a network drive
+* `\\www3files.nd.edu\user\vsand\www`
 
 * When you're completely done, remember to eject the mapped folder!
 
 * TODO for Anthony: Add git command line examples
+
 
 ## How to Verify the Changes Made it to the Official Site ##
 * Make sure you are using an incognito browser!!!
