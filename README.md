@@ -27,7 +27,8 @@ VSAND Website
 
 ## How to Update Official Site ##
 * Be sure you are on eduroam.
-* If you are not on campus, go to vpnaccess.nd.edu. Login, and then go to the next step.
+* If you are not on campus, go to vpnaccess.nd.edu. Login, and then go to the next step. You will likely have to access:
+`vpnacces.nd.edu/go` since you are a student.
 * Open a new Finder window (for Explorer window).
 * For Mac: select "Go" in the top bar menu, and then select "Connect to Server"
 * Enter the following link to connect: smb://www3files.nd.edu/user/vsand/www
