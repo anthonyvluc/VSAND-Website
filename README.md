@@ -37,7 +37,7 @@ NOTE: You may have some merge conflicts (see next section). You'll have to look 
 * Click the `Fetch origin` button at the top.
 * Then, click the `Pull origin` to pull N changes from remote.
 
-## How to Update Official Site
+## How to Update The Official Site
 
 * Be sure you are on `eduroam`.
 * Open a new Finder window (for Explorer window).
