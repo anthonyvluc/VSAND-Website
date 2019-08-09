@@ -40,18 +40,21 @@ NOTE: You may have some merge conflicts (see next section). You'll have to look 
 ## How to Update The Official Site
 
 * Be sure you are on `eduroam`.
-* Open a new Finder window (for Explorer window).
-* For Mac: select "Go" in the top bar menu, and then select "Connect to Server"
-* Enter the following link to connect: `smb://www3files.nd.edu/user/vsand/www`
-* Connect
-* Login using the following credentials: Name=`vsand` Password=(Use the current VSA password)
-* Copy the changed files from your `local` to the `www` Finder window.
-* For Windows: Map a network drive
-* `\\www3files.nd.edu\user\vsand\www`
-* When you're completely done, remember to eject the mapped folder!
+* For Mac
+	* Open up a new `Finder` window
+	* Select "Go" in the top bar menu, and then select "Connect to Server"
+	* Enter the following link to connect: `smb://www3files.nd.edu/user/vsand/www`
+	* Connect
+	* Login using the following credentials: Name=`vsand` Password=(Use the current VSA password)
+	* Copy the changed files from your `local` to the `www` Finder window.
+* For Windows
+	* Open up a new `Explorer` window
+	* Map a network drive
+	* `\\www3files.nd.edu\user\vsand\www`
+	* When you're completely done, remember to eject the mapped folder!
 * TODO for Anthony: Add git command line examples
 
-NOTE: If you are not on campus or cannot connect to `eduroam`, go to `vpnaccess.nd.edu`. Login, and then go to the next step. You will likely have to access: `vpnacces.nd.edu/go` since you are a student.
+NOTE: If you are not on campus or cannot connect to `eduroam`, go to `vpnaccess.nd.edu`. Login, and then go to the next step. You will likely have to access: `vpnaccess.nd.edu/go` since you are a student.
 
 ## How to Verify the Changes Made it to the Official Site
 
