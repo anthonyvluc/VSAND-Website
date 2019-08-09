@@ -49,8 +49,11 @@ NOTE: You may have some merge conflicts (see next section). You'll have to look 
 	* Copy the changed files from your `local` to the `www` Finder window.
 * For Windows
 	* Open up a new `Explorer` window
-	* Map a network drive
-	* `\\www3files.nd.edu\user\vsand\www`
+	* Map a network drive (Google this)
+	* Connect to `\\www3files.nd.edu\user\vsand\www`
+	* Be sure to check the checkbox for `Connect using different credentials`
+	* Click `Finish`
+	* For the login, use `adnd\vsand` and the account password
 	* When you're completely done, remember to eject the mapped folder!
 * TODO for Anthony: Add git command line examples
 
