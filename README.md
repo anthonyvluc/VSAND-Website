@@ -54,14 +54,13 @@ NOTE: You may have some merge conflicts (see next section). You'll have to look 
 	* Be sure to check the checkbox for `Connect using different credentials`
 	* Click `Finish`
 	* For the login, use `adnd\vsand` and the account password
-	* When you're completely done, remember to eject the mapped folder!
 * TODO for Anthony: Add git command line examples
 
 NOTE: If you are not on campus or cannot connect to `eduroam`, go to `vpnaccess.nd.edu`. Login, and then go to the next step. You will likely have to access: `vpnaccess.nd.edu/go` since you are a student.
 
 ## How to Verify the Changes Made it to the Official Site
 
-* Make sure you are using an incognito browser!!!
+* Make sure you are using an `incognito` window!!!
 * Reload the page: www.nd.edu/~vsand/[insert-page-name].html
 
 ## Tips
